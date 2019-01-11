@@ -1,0 +1,12 @@
+{
+  "include": ["src/**/*.ts", "__tests__/*.ts", "__tests__/*.tsx"],
+  "compilerOptions": {
+    "jsx": "react",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "lib": ["dom", "es2015", "esnext.asynciterable"],
+
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}
