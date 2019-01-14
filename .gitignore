@@ -1,6 +1,7 @@
 /es
 /node_modules
 npm-debug.log*
+/lib
 yarn-error.log*
 coverage
 .idea

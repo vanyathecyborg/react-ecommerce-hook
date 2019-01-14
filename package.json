@@ -1,9 +1,9 @@
 {
   "name": "react-ecommerce-hook",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a basic shopping cart react hook",
-  "main": "lib/index.ts",
-  "typings": "lib/index.d.ts",
+  "main": "lib/src/index.ts",
+  "typings": "lib/src/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/vanyaistank/react-ecommerce-hook.git"
