@@ -10,7 +10,7 @@ import { cartReducer, initialState } from './reducer';
 import { createStorageMethods } from './storageMethods';
 import { IAddToCartPayload, IIdPayload } from './types';
 
-const useCart = () => {
+export const useCart = () => {
   const { set, get } = createStorageMethods('cart');
 
   const initialReducerState = get() || initialState;
@@ -43,5 +43,3 @@ const useCart = () => {
     },
   };
 };
-
-export default useCart;
