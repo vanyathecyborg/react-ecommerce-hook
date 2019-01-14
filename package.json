@@ -1,6 +1,6 @@
 {
   "name": "react-ecommerce-hook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a basic shopping cart react hook",
   "main": "lib/src/index.js",
   "typings": "lib/src/index.d.ts",
