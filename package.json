@@ -6,7 +6,7 @@
   "typings": "lib/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vanyaistank/react-ecommerce-hook.git"
+    "url": "https://github.com/vanyathecyborg/react-ecommerce-hook.git"
   },
   "files": [
     "lib"
@@ -37,22 +37,22 @@
   },
   "dependencies": {
     "lodash.omit": "^4.5.0",
-    "react": "^16.8.0-alpha.0",
-    "react-dom": "16.8.0-alpha.0",
-    "typesafe-actions": "^3.0.0"
+    "react": "^16.13.1",
+    "react-dom": "16.13.1",
+    "typesafe-actions": "^5.1.0"
   },
   "peerDependencies": {
     "react": "16.8.0-alpha.0"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.12",
-    "@types/lodash.omit": "^4.5.4",
-    "jest": "^23.6.0",
-    "prettier": "^1.15.3",
-    "rimraf": "^2.6.3",
-    "ts-jest": "^23.10.5",
-    "tslint": "^5.12.1",
-    "tslint-config-prettier": "^1.17.0",
-    "typescript": "^3.2.2"
+    "@types/jest": "^26.0.10",
+    "@types/lodash.omit": "^4.5.6",
+    "jest": "^26.4.2",
+    "prettier": "^2.1.0",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.2.0",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.0.2"
   }
 }
