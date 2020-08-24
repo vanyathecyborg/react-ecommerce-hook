@@ -2,11 +2,6 @@
 
 > A basic shopping cart react hook, it uses localStorage to persist data
 
-> **Note:** This is using the new [React Hooks API Proposal](https://reactjs.org/docs/hooks-intro.html)
-> which is subject to change until React 16.8 final.
->
-> You'll need to install `react` and `react-dom` at `^16.8.0-alpha.0`
-
 ## Install
 
 ```sh
